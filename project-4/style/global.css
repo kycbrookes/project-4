@@ -1,0 +1,31 @@
+.lede {
+	color: #682400;
+	font-weight: bold;
+}
+a:link {
+	color: #682400;
+}
+a:visited {
+	color: #893000;
+}
+a:hover {
+	color: #AA6039;
+}
+a:active {
+	color: #CB9F87;
+}
+body, h1, h2, h3, h4, h5 {
+	font-family: 'Crimson Text', serif;
+	line-height: 1.2;
+	background-color: #CBB087
+}
+body {
+	font-size: 1.2em;
+}
+img {
+	width: 50%;
+}
+.image {
+	width: 100%;
+	display: block;
+}
